@@ -1,2 +1,2 @@
 # Azure_Workplace
-This is a repositary to save the azure activity lab
+This is a repositary to have idea about lab session in Azure.
